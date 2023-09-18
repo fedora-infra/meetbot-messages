@@ -2,4 +2,4 @@
 #
 # SPDX-License-Identifier: LGPL-3.0-or-later
 
-from .thing import NewThingV1
+from .meeting import MeetingCompleteV1, MeetingStartV1
